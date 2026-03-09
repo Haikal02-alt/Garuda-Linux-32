@@ -13,6 +13,7 @@ I Ported Garuda Linux To x86 Because Garuda Linux Didnt
 6 Run sudo nano /etc/os-release
 7 Change The Text Arch Linux Arm To Garuda Linux 32
   Example
+  
   NAME="Garuda Linux 32"
   PRETTY_NAME="Garuda Linux 32"
   ID=garuda32
@@ -24,6 +25,7 @@ I Ported Garuda Linux To x86 Because Garuda Linux Didnt
   SUPPORT_URL="https://forum.garudalinux.org/"
   BUG_REPORT_URL="https://gitlab.com/groups/garuda-linux/"
   PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+  
 8 Install Neofetch Fastfetch Screenfetch
   1 fastfetch sudo pacman -S fastfetch
   2 neofetch  sudo pacman -S neofetch
