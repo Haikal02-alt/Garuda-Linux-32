@@ -4,6 +4,9 @@
 Not affiliated By Garuda Linux BTW
 I Ported Garuda Linux To x86 Because Garuda Linux Didnt
 
+# What Is This
+  You've reached the github repository for Garuda Linux 32, the community maintained 32-bit support for Garuda Linux,
+
 # How To Install Garuda Linux 32
 1 Download Iso Here https://archlinux32.org/
 2 Flash The Iso
