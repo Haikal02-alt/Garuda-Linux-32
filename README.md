@@ -1,11 +1,17 @@
 <img width="1273" height="340" alt="Screenshot From 2026-03-09 13-23-10" src="https://github.com/user-attachments/assets/27db42fe-0e3b-48b8-891a-f66fa0666fda" />
 
+You've reached the github repository for Garuda Linux 32, the community maintained 32-bit support for Garuda Linux,
+
 # Garuda-Linux-32
 Not affiliated By Garuda Linux BTW
 I Ported Garuda Linux To x86 Because Garuda Linux Didnt
 
 # What Is This
-  You've reached the github repository for Garuda Linux 32, the community maintained 32-bit support for Garuda Linux,
+  A Garuda Linux for 32-bit CPUs 
+
+# How It Works
+   Garuda Linux 32 have official packages optimized for the i686 and pentium4 architectures. Also most(ly) non-graphical packages are available for i486, too. Have a look at the required cpu flags to decide which architecture is the right one 
+   for you. Most packages from Arch Linux's community-operated package repository are also compatible with Garuda Linux 32.
 
 # How To Install Garuda Linux 32
 1 Download Iso Here https://archlinux32.org/
